@@ -21,8 +21,8 @@ st.markdown(
     In this page, there are two tabs you can explore, Visualization and Machine Learning deployment. 
     If you are curious about the project, feel free to visit these links:
 
-    - Slide of Presentation (https://shorturl.at/dlAHJ)
-    - Github (https://shorturl.at/mDQ07)
+    - Slide of Presentation : https://shorturl.at/dlAHJ)
+    - Github : https://shorturl.at/mDQ07)
    
         
     ### Let's Connect 😎
