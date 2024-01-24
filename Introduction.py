@@ -9,8 +9,7 @@ st.markdown("# Welcome to My Portfolio 👋")
 st.markdown(
     """
     ### About Me
-    I am Aziz Nur Rohman, an aspiring data scientist who is in the process of switching career
-    into data field. Adept at using python for Data Cleaning, Data Manipulation, Text Processing, 
+    I am Aziz Nur Rohman, an aspiring data scientist who is in the process of switching career into data field. Adept at using python for Data Cleaning, Data Manipulation, Text Processing, 
     Exploratory Data Analysis, Machine Learning, and Hyperparameter Tuning. In addition, proficient 
     in SQL, Tableau, and Looker Studio. Highly eager and continuosly hungry to learn new things 
     related to data science.
